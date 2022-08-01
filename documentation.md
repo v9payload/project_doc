@@ -31,6 +31,7 @@ Um diese Erweiterungen zu installieren, müssen Sie links in der Navigation unte
 
 Nachdem Sie die Erweiterungen installiert haben, können wir nun mit dem verbinden des Servers fortfahren.
 
+![f1_vsc](https://user-images.githubusercontent.com/110160647/182132040-ee7c8061-ba04-438d-862a-d71f20d06609.png)
 
-![f1_vsc](https://user-images.githubusercontent.com/110160647/182131824-efe4e674-cba1-48e7-a743-e243613f084f.png)
+
 
