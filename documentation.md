@@ -14,6 +14,23 @@ It also shows how to get Terraform code directly into the folders on the respect
 
 <br>
 
-## Installieren der Erweiterungen in Visual Studio Code
+## Installing the extensions in Visual Studio Code
+
+
+### Overview of the general extensions:
 
 ![grafik](https://user-images.githubusercontent.com/110160647/181711679-0a042d63-5f08-416c-abb7-1e315ed0778d.png)
+
+<br>
+
+Um diese Erweiterungen zu installieren, müssen Sie links in der Navigation unter "Extensions" navigieren.<br> Geben Sie danach die Namen der Erweiterungen ein.
+<br>
+
+>#### **Extensions > "Search Extensions in Marketplace"**
+<br>
+
+Nachdem Sie die Erweiterungen installiert haben, können wir nun mit dem verbinden des Servers fortfahren.
+
+
+![f1_vsc](https://user-images.githubusercontent.com/110160647/182131824-efe4e674-cba1-48e7-a743-e243613f084f.png)
+
