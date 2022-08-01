@@ -47,5 +47,6 @@ Hinzufügen des Servers in der *conf* Datei
 
 ![add_host](https://user-images.githubusercontent.com/110160647/182156682-30782771-19f9-4da2-a680-d07ba3144bfd.png)
 
+* Geben Sie nun einen Server ein **"ssh user@ihrServer"**
 
-
+![add_host_conf](https://user-images.githubusercontent.com/110160647/182157731-62c93e6e-900c-4f72-8d8d-c5189bbd21fa.png)
