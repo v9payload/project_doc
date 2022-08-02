@@ -75,6 +75,9 @@ Zu diesem Zeitpunkt können wir nun auf den Server zugreifen und beliebige Ordne
 ## Schritt 6
 Sie werden dann auf die "Startseite" kommen und sehen dieses Bild
 <br>
+
 ![new_folder](https://user-images.githubusercontent.com/110160647/182362464-a3c6ba15-925f-4a0b-923f-c29fdd26a69b.png)
 
+* Wählen Sie **"Open Folder"**
 
+![folder_selec](https://user-images.githubusercontent.com/110160647/182362631-e8874e44-9812-4a36-b83c-5ba1c2f5dc7a.png)
