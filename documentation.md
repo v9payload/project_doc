@@ -31,6 +31,8 @@ Um diese Erweiterungen zu installieren, müssen Sie links in der Navigation unte
 >#### **Extensions > "Search Extensions in Marketplace"**
 <br>
 
+## Schritt 2
+
 Nachdem Sie die Erweiterungen installiert haben, können wir nun mit dem verbinden des Servers fortfahren.
 <br>
 
@@ -41,17 +43,28 @@ Nachdem Sie die Erweiterungen installiert haben, können wir nun mit dem verbind
 
 <br>
 
-## Schritt 2
+## Schritt 3
 Hinzufügen des Servers in der *conf* Datei
 <br>
 
 ![add_host](https://user-images.githubusercontent.com/110160647/182156682-30782771-19f9-4da2-a680-d07ba3144bfd.png)
 
-* Geben Sie nun einen Server ein **"ssh user@ihrServer"**
+* Geben Sie nun einen Server ein **"ssh user@exampleServer"**
 
 <br>
 
-## Schritt 3
+## Schritt 4
+Um auf den Server zugreifen zu können, müssen wir den Host erstmal in einer Config abspeichern. Das erbringt uns den Vorteil, später schneller wieder auf den Server zugreifen zu können.
+<br>  
 ![add_host_conf](https://user-images.githubusercontent.com/110160647/182157731-62c93e6e-900c-4f72-8d8d-c5189bbd21fa.png)
 
 * Wählen sie \\.ssh\config aus und speichern Sie dort den Host ab
+
+<br>
+
+## Schritt 5
+Zu diesem Zeitpunkt können wir nun auf den Server zugreifen und beliebige Ordner öffnen. Um dies zu machen folgen Sie den folgenden Anweisungen.
+<br>
+![connect_host](https://user-images.githubusercontent.com/110160647/182360683-3950f01a-e740-4c46-96ea-36d1e458aa18.png)
+
+
