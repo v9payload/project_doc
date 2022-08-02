@@ -55,7 +55,8 @@ Hinzufügen des Servers in der *conf* Datei
 
 ## Schritt 4
 Um auf den Server zugreifen zu können, müssen wir den Host erstmal in einer Config abspeichern. Das erbringt uns den Vorteil, später schneller wieder auf den Server zugreifen zu können.
-<br>  
+<br>
+
 ![add_host_conf](https://user-images.githubusercontent.com/110160647/182157731-62c93e6e-900c-4f72-8d8d-c5189bbd21fa.png)
 
 * Wählen sie \\.ssh\config aus und speichern Sie dort den Host ab
@@ -65,6 +66,15 @@ Um auf den Server zugreifen zu können, müssen wir den Host erstmal in einer Co
 ## Schritt 5
 Zu diesem Zeitpunkt können wir nun auf den Server zugreifen und beliebige Ordner öffnen. Um dies zu machen folgen Sie den folgenden Anweisungen.
 <br>
+
 ![connect_host](https://user-images.githubusercontent.com/110160647/182360683-3950f01a-e740-4c46-96ea-36d1e458aa18.png)
+
+* Wählen Sie jetzt ihren hinzugefügten Server aus und bestätigen Sie mit Enter
+* Geben Sie dann ihr Passwort ein und verbinden Sie sich mit dem Server
+
+## Schritt 6
+Sie werden dann auf die "Startseite" kommen und sehen dieses Bild
+<br>
+![new_folder](https://user-images.githubusercontent.com/110160647/182362464-a3c6ba15-925f-4a0b-923f-c29fdd26a69b.png)
 
 
