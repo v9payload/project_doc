@@ -53,7 +53,7 @@ Hinzufügen des Servers in der *conf* Datei
 
 <br>
 
-## Schritt 4
+
 Um auf den Server zugreifen zu können, müssen wir den Host erstmal in einer Config abspeichern. Das erbringt uns den Vorteil, später schneller wieder auf den Server zugreifen zu können.
 <br>
 
@@ -63,16 +63,18 @@ Um auf den Server zugreifen zu können, müssen wir den Host erstmal in einer Co
 
 <br>
 
-## Schritt 5
+## Schritt 4
 Zu diesem Zeitpunkt können wir nun auf den Server zugreifen und beliebige Ordner öffnen. Um dies zu machen folgen Sie den folgenden Anweisungen.
 <br>
 
 ![connect_host](https://user-images.githubusercontent.com/110160647/182360683-3950f01a-e740-4c46-96ea-36d1e458aa18.png)
 
+* Drücken Sie erneut F1 um die Kommandozeile zu öffnen
+* Geben Sie nun **"Connect to Host"** ein, um sie Serverliste anzeigen zu lassen
 * Wählen Sie jetzt ihren hinzugefügten Server aus und bestätigen Sie mit Enter
 * Geben Sie dann ihr Passwort ein und verbinden Sie sich mit dem Server
 
-## Schritt 6
+## Schritt 5
 Sie werden dann auf die "Startseite" kommen und sehen dieses Bild
 <br>
 
