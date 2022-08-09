@@ -80,7 +80,7 @@ Sie werden dann auf die "Startseite" kommen und sehen dieses Bild
 
 * Wählen Sie **"Open Folder"**
 
-![folder_selec](https://user-images.githubusercontent.com/110160647/182362631-e8874e44-9812-4a36-b83c-5ba1c2f5dc7a.png)
+![folder_selec](https://user-images.githubusercontent.com/110160647/183591156-10d14d27-272e-42f5-a5a3-cc68290457c9.png)
 
 * Nun können Sie einen beliebigen Ordner auf Ihrem Server auswählen und hinzufügen
 * Um das Terminal zu öffnen navigiren Sie oben in der Bar auf Terminal
