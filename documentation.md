@@ -14,7 +14,7 @@ It also shows how to get Terraform code directly into the folders on the respect
 
 <br>
 
-## Schritt 1
+## Step 1
 
 ### Installing the extensions in Visual Studio Code
 
@@ -25,7 +25,7 @@ It also shows how to get Terraform code directly into the folders on the respect
 
 <br>
 
-Um diese Erweiterungen zu installieren, müssen Sie links in der Navigation unter "Extensions" navigieren.<br> Geben Sie danach die Namen der Erweiterungen ein.
+To install these extensions, you need to navigate to the left in the navigation under "Extensions".<br> Then enter the names of the extensions.
 <br>
 
 ![extensions](https://user-images.githubusercontent.com/110160647/184134307-23f6b4a3-8f61-4efe-b746-3c0d5237b88a.PNG)
@@ -33,40 +33,40 @@ Um diese Erweiterungen zu installieren, müssen Sie links in der Navigation unte
 >#### **Extensions > "Search Extensions in Marketplace"**
 <br>
 
-## Schritt 2
+## Step 2
 
-Nachdem Sie die Erweiterungen installiert haben, können wir nun mit dem verbinden des Servers fortfahren.
+After you have installed the extensions, we can now proceed with connecting the server.
 <br>
 
 ![f1_vsc](https://user-images.githubusercontent.com/110160647/182132040-ee7c8061-ba04-438d-862a-d71f20d06609.png)
 
-* Drücken Sie F1, um in die Kommandozeile zu kommen
-* Geben sie danach **"add new Host"** ein
+* Press F1 to enter the command line
+* After that enter **"add new Host "**
 
 <br>
 
-## Schritt 3
-Hinzufügen des Servers in der *conf* Datei
+## Step 3
+Adding the server in the *conf* file
 <br>
 
 ![add_host](https://user-images.githubusercontent.com/110160647/182156682-30782771-19f9-4da2-a680-d07ba3144bfd.png)
 
-* Geben Sie nun einen Server ein **"ssh user@exampleServer"**
+* Now enter a server **"ssh user@exampleServer"**
 
 <br>
 
 
-Um auf den Server zugreifen zu können, müssen wir den Host erstmal in einer Config abspeichern. Das erbringt uns den Vorteil, später schneller wieder auf den Server zugreifen zu können.
+To access the server, we must first save the host in a config file. This gives us the advantage of being able to access the server again more quickly later.
 <br>
 
 ![add_host_conf](https://user-images.githubusercontent.com/110160647/182157731-62c93e6e-900c-4f72-8d8d-c5189bbd21fa.png)
 
-* Wählen sie \\.ssh\config aus und speichern Sie dort den Host ab
+* Select \\.ssh\config and save the host there
 
 <br>
 
-## Schritt 4
-Zu diesem Zeitpunkt können wir nun auf den Server zugreifen und beliebige Ordner öffnen. Um dies zu machen folgen Sie den folgenden Anweisungen.
+## Step 4
+At this point we can now access the server and open any folders. To do this, follow the instructions below.
 <br>
 
 ![connect_host](https://user-images.githubusercontent.com/110160647/182360683-3950f01a-e740-4c46-96ea-36d1e458aa18.png)
