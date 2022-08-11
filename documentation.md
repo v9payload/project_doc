@@ -28,6 +28,8 @@ It also shows how to get Terraform code directly into the folders on the respect
 Um diese Erweiterungen zu installieren, müssen Sie links in der Navigation unter "Extensions" navigieren.<br> Geben Sie danach die Namen der Erweiterungen ein.
 <br>
 
+![extensions](https://user-images.githubusercontent.com/110160647/184134307-23f6b4a3-8f61-4efe-b746-3c0d5237b88a.PNG)
+
 >#### **Extensions > "Search Extensions in Marketplace"**
 <br>
 
