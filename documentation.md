@@ -76,6 +76,10 @@ Zu diesem Zeitpunkt können wir nun auf den Server zugreifen und beliebige Ordne
 * Wählen Sie jetzt ihren hinzugefügten Server aus und bestätigen Sie mit Enter
 * Geben Sie dann ihr Passwort ein und verbinden Sie sich mit dem Server
 
+Um sicher zu gehen das Sie mit dem Server verbunden sind, sehen Sie unten links in der Ecke.
+<br>
+![grafik](https://user-images.githubusercontent.com/110160647/184135041-3deaa4d7-3151-4f6b-9a45-a26df91f3754.png)
+
 ## Schritt 5
 Sie werden dann auf die "Startseite" kommen und sehen dieses Bild
 <br>
