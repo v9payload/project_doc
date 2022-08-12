@@ -71,26 +71,26 @@ At this point we can now access the server and open any folders. To do this, fol
 
 ![connect_host](https://user-images.githubusercontent.com/110160647/182360683-3950f01a-e740-4c46-96ea-36d1e458aa18.png)
 
-* Drücken Sie erneut F1 um die Kommandozeile zu öffnen
-* Geben Sie nun **"Connect to Host"** ein, um sie Serverliste anzeigen zu lassen
-* Wählen Sie jetzt ihren hinzugefügten Server aus und bestätigen Sie mit Enter
-* Geben Sie dann ihr Passwort ein und verbinden Sie sich mit dem Server
+* Press F1 again to open the command line
+* Now enter **"Connect to Host "** to display the server list.
+* Now select your server and confirm with Enter
+* Then enter your password and connect to the server
 
-Um sicher zu gehen das Sie mit dem Server verbunden sind, sehen Sie unten links in der Ecke.
+To make sure you are connected to the server, look in the bottom left corner.
 <br>
 ![grafik](https://user-images.githubusercontent.com/110160647/184135041-3deaa4d7-3151-4f6b-9a45-a26df91f3754.png)
 
-## Schritt 5
-Sie werden dann auf die "Startseite" kommen und sehen dieses Bild
+## Step 5
+You will come to the "Homepage" and see this image
 <br>
 
 ![new_folder](https://user-images.githubusercontent.com/110160647/182362464-a3c6ba15-925f-4a0b-923f-c29fdd26a69b.png)
 
-* Wählen Sie **"Open Folder"**
+* Select **"Open Folder"**
 
 ![folder_selec](https://user-images.githubusercontent.com/110160647/183591156-10d14d27-272e-42f5-a5a3-cc68290457c9.png)
 
-* Nun können Sie einen beliebigen Ordner auf Ihrem Server auswählen und hinzufügen
-* Um das Terminal zu öffnen navigiren Sie oben in der Bar auf Terminal
+* Now you can select and add any folder on your server
+* To open the terminal, navigate to Terminal at the top of the bar.
 
 ![terminal](https://user-images.githubusercontent.com/110160647/182362904-e3a93f2b-995b-49fd-b606-a66c8b36c318.png)
